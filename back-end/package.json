@@ -1,0 +1,41 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "Proyecto backend de SCRUM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avielman/IU-SCRUM.git"
+  },
+  "keywords": [
+    "SCRUM",
+    "avielman",
+    "git",
+    "node",
+    "mysql",
+    "javascript"
+  ],
+  "author": "Hansel Vielman",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/avielman/IU-SCRUM/issues"
+  },
+  "homepage": "https://github.com/avielman/IU-SCRUM#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-environments": "^0.1.2",
+    "gulp-jshint": "^2.0.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "angular": "^1.6.6"
+  }
+}
