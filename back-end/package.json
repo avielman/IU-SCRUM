@@ -16,6 +16,7 @@
     "git",
     "node",
     "mysql",
+    "mongodb",
     "javascript"
   ],
   "author": "Hansel Vielman",
@@ -37,5 +38,5 @@
   },
   "dependencies": {
     "angular": "^1.6.6"
-  }
+  }  
 }
