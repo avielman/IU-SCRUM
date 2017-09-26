@@ -37,9 +37,6 @@
     "vinyl-source-stream": "^1.1.0"
   },
   "dependencies": {
-    "angular": "^1.6.6",
-    "gulp-jshint": "^2.0.4",
-    "jshint": "^2.9.5",
-    "moment": "^2.18.1"
-  }
+    "angular": "^1.6.6"
+  }  
 }
